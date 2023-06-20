@@ -11,3 +11,5 @@ Estou aprendendo tecnologias como: <br><br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br>
+<a href="https://www.facebook.com/profile.php?id=100088882249419">Facebook</a>
